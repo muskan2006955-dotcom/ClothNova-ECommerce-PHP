@@ -169,7 +169,7 @@ include 'preloader.php';
             
             <!-- Product Image -->
             <a href="product-detail.php?id=<?= $pid ?>">
-              <img src="<?= $img ?>" class="card-img-top img-fluid" alt="<?= $name ?>" 
+              <img src="images/<?= $img ?>" class="card-img-top img-fluid" alt="<?= $name ?>" 
                    style="width:100%; height:230px; object-fit:cover;">
             </a>
 
