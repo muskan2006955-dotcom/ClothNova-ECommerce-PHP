@@ -1,0 +1,1 @@
+<div class="container-fluid header" id="header" style="background-color:rgb(149, 31, 51);color:white;"> <div class="row"> <div class="col-7 "> <p class="ms-5 ">E comerce <i class="fa-solid fa-bag-shopping"></i></p> </div> <div class="col-4 ms-5"> <p class="ms-5">30% off sale on ramazan</p> </div> </div> </div>
